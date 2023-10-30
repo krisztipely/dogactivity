@@ -33,7 +33,7 @@ Simply create an instance of the Dog class named perec and start interacting wit
 
 **Clone the repository to your local machine:**
 ```
-git clone https://github.com/your-username/dogactivity.git
+git clone https://github.com/krisztipely/dogactivity.git
 ```
 
 **Navigate to the project directory:**
