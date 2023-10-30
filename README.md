@@ -59,4 +59,4 @@ Implement features for tracking and visualizing Perec's activities over time.
 Feel free to contribute and make Perec's virtual life even more vibrant!
 
 ## License
-This project is licensed under the MIT License, allowing you to modify and distribute the code for personal or commercial use.
+MIT 2023, Krisztina-Ronkainen Lakner
