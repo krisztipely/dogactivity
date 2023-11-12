@@ -59,4 +59,4 @@ Implement features for tracking and visualizing Perec's activities over time.
 Feel free to contribute and make Perec's virtual life even more vibrant!
 
 ## License
-MIT 2023, Krisztina-Ronkainen Lakner
+[MIT](https://github.com/krisztipely/dogactivity/blob/master/LICENSE) 2023, Krisztina-Ronkainen Lakner
